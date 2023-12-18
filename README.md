@@ -4,7 +4,7 @@ Workshop version A title: ***Sincronización: elemento clave en las comunicacion
 
 Workshop version B title: ***Introducción a las comunicaciones móviles con SDR - Software Defined Radio***
 
-This workshop is delivered in two versions, namely version A, which is based enterely in software resources and version B, which in addition of software it also requires a set of hardware devices. Version A is indeed simpler to execute but somehow reduced in scope in respect to version B, whereas version B requires to invest in acquiring the hardware or, alternatively, doing the workshop at the premises of the CTTC.
+This workshop is delivered in two versions, namely version A, which is based entirely in software resources and version B, which in addition of software it also requires a set of hardware devices. Version A is indeed simpler to execute but somehow reduced in scope in respect to version B, whereas version B requires to invest in acquiring the hardware or, alternatively, doing the workshop at the premises of the CTTC.
 
 The main objective of this workshop is to introduce students to the technology of Software Defined Radio and more specifically into a critical aspect of any radio communication system such is synchronization. To do this, we propose a series of basic exercises that will allow you to practice with the frequency synchronization of frequency multiplexed systems (OFDM).
 
