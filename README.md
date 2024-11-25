@@ -4,9 +4,12 @@ Workshop version A title: ***Sincronización: elemento clave en las comunicacion
 
 Workshop version B title: ***Introducción a las comunicaciones móviles con SDR - Software Defined Radio***
 
-This workshop is delivered in two versions, namely version A, which is based entirely in software resources and version B, which in addition of software it also requires a set of hardware devices. Version A is indeed simpler to execute but somehow reduced in scope in respect to version B, whereas version B requires to invest in acquiring the hardware or, alternatively, doing the workshop at the premises of the [CTTC](https://www.cttc.cat/).
+Workshop version C title: ***Comunicación MIMO Multi-usuario con Software Defined Radio (SDR)***
 
-The main objective of this workshop is to introduce students to the technology of Software Defined Radio and more specifically into a critical aspect of any radio communication system such is synchronization. To do this, we propose a series of basic exercises that will allow you to practice with the frequency synchronization of frequency multiplexed systems (OFDM).
+
+This workshop is delivered in three versions. Version A is based entirely in software resources and versions B and C, in addition of software, also require a set of hardware devices. Version A is indeed simpler to execute but somehow reduced in scope in respect to versions B and C, which require to invest in acquiring the hardware or, alternatively, doing the workshop at the premises of the [CTTC](https://www.cttc.cat/).
+
+The main objective of this workshop is to introduce students to the technology of Software Defined Radio and more specifically into a critical aspect of any radio communication system such is synchronization. To do this, we propose a series of basic exercises that will allow you to practice with the frequency synchronization of frequency multiplexed systems (OFDM). In addition, version C explores multiuser communications with multiple antenas (MIMO, Multiple Input Multiple Output).
 
 The workshop is supported by three types of files: 
 1. **PDF guides** that consist in one guide for the instructor and another guide for the student
@@ -19,6 +22,8 @@ The workshop is supported by three types of files:
 To get access to Version A resources go to [version A](https://gitlab.cttc.es/mnavarro/telecorenta-taller/-/tree/main/1A?ref_type=heads)
 
 To get access to Version B resources go to [version B](https://gitlab.cttc.es/mnavarro/telecorenta-taller/-/tree/main/1B?ref_type=heads)
+
+To get access to Version C resources go to 
 
 ## About
 
