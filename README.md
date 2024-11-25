@@ -23,7 +23,7 @@ To get access to Version A resources go to [version A](https://gitlab.cttc.es/mn
 
 To get access to Version B resources go to [version B](https://gitlab.cttc.es/mnavarro/telecorenta-taller/-/tree/main/1B?ref_type=heads)
 
-To get access to Version C resources go to 
+To get access to Version C resources go to [version C](https://github.com/TelecoRenta/Taller-de-Software-Defined-Radio/tree/main/Version%20C)
 
 ## About
 
